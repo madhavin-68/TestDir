@@ -4,5 +4,6 @@ new second line
 third line
 amened lines
 asfsdf
+<<<<<<< HEAD
 wwwwwwwwww
 zzzzzzzzzzzz
